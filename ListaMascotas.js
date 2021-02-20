@@ -146,6 +146,7 @@ const styles = StyleSheet.create({
   },
   scrollViewContent: {
     padding: 20,
+    paddingBottom: 60,
   },
   activityOverlay: {
     position: 'absolute',
